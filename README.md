@@ -4,6 +4,10 @@
 
 A collection of notebooks and Python code exploring quantum optimization, including QAOA for Max-Cut and related quantum annealing experiments.
 
+## Graph Visualization
+
+![30 node complete graph](image/30%20node%20complete%20graphpng.png)
+
 ## Quantum Annealing on Circular and Möbius Ladder Graphs
 
 This exploratory notebook compares circular ladder and Möbius ladder graphs using a Max-Cut formulation and D-Wave quantum annealing. Inspired by Hen and Young’s work, it investigates graph-dependent energy outcomes as a preliminary step toward studying graph distinguishability.
